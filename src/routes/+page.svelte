@@ -14,7 +14,9 @@ import background from '$lib/assets/phone.jpg'
 <svelte:head>
 
 <title>Hera Electronics - Tech starts here</title>
-<meta name="description" content="Best quality phones, new and used. We sell online only"><meta> 
+<meta name="description" content="Best quality phones, new and used. We sell online only">
+<meta property="og.title"content="Hera Electronics - Tech starts here">
+<meta property="og.image"content="{background}">
 </svelte:head>
 
 
@@ -36,7 +38,7 @@ import background from '$lib/assets/phone.jpg'
 
 
 
-<footer>
+<footer class="h-[300px] bg-blue-800 text-white flex items-center justify-center">
 
 
 
