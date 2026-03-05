@@ -24,7 +24,7 @@ export let data;
 
 
 <header class="h-[500px] bg-center bg-cover flex items-center justify-center"
-style="background-image: url({background})">
+style="background-image: url('https://res.cloudinary.com/dhan9lxoe/image/upload/v1772711522/jonas-leupe-wK-elt11pF0-unsplash_ch7umq.jpg')">
 
 <div class="text-center">
 
@@ -106,4 +106,3 @@ Online smartphone shop – quality devices at great prices.
 </section>
 
 </footer>
-```
